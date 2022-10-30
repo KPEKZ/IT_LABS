@@ -4,7 +4,7 @@
 1. Регистрация на github.com
 2. Создание репозитория
 
-[Результат] (https://github.com/KPEKZ/firstLab/blob/master/README.md)
+[Результат](https://github.com/KPEKZ/firstLab/blob/master/README.md)
 
 3. Создание личной страницы
 4. Размещение исходного кода страницы 
