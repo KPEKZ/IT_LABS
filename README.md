@@ -30,7 +30,7 @@
 
 [Ссылка на репозиторий проекта](https://github.com/KPEKZ/IT_PROJECT)
 
-[Ссылка на репозиторий проекта](https://github.com/KPEKZ/IT_PROJECT](https://kpekz.github.io/IT_PROJECT/#/)
+[Ссылка на проект](https://kpekz.github.io/IT_PROJECT/#/)
 
 
 
