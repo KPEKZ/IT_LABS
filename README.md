@@ -38,3 +38,4 @@
 Ответы на выбранный билет:
 
 [Билет №017](https://github.com/stankin/inet-2022/wiki/exam17)
+[Ревизии](https://github.com/stankin/inet-2022/wiki/exam17/_compare/e2e3d5e63cd99a809fd52f74a12b67276bdfc3ae...60b936e28b0caaec5aeba1676361a97c513af7c3)
