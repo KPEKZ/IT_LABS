@@ -26,11 +26,15 @@
 
 ## ✅Командный проект
 
-Работа выполняется в команде "Mad Ostriches"
+Работа выполняется в команде "Mad Ostriches" (Участвует в конкурсе)
 
 [Ссылка на репозиторий проекта](https://github.com/KPEKZ/IT_PROJECT)
 
 [Ссылка на проект](https://kpekz.github.io/IT_PROJECT/#/)
+
+[Ссылка на лендинг репозиторий](https://github.com/KPEKZ/musify-landing)
+
+[Ссылка на лендинг](https://kpekz.github.io/musify-landing)
 
 
 
